@@ -1,0 +1,9 @@
+flutter_native_splash:
+
+  image: assets/wear_mask.png
+  color: "#42a5f5"
+  android: false
+  fill: true
+  android_disable_fullscreen: true
+  
+  
